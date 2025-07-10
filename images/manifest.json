@@ -3330,6 +3330,87 @@
             ]
         },
         {
+            "id": "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T1-Blue-00012/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "Derive-Glasgow-T1-Blue-00012"
+                ]
+            },
+            "height": 3024,
+            "width": 4032,
+            "items": [
+                {
+                    "id": "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T1-Blue-00012/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T1-Blue-00012/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T1-Blue-00012/full/max/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 126,
+                                                "height": 95
+                                            },
+                                            {
+                                                "width": 252,
+                                                "height": 189
+                                            },
+                                            {
+                                                "width": 504,
+                                                "height": 378
+                                            },
+                                            {
+                                                "width": 1008,
+                                                "height": 756
+                                            },
+                                            {
+                                                "width": 2016,
+                                                "height": 1512
+                                            },
+                                            {
+                                                "width": 4032,
+                                                "height": 3024
+                                            }
+                                        ],
+                                        "profile": "level0",
+                                        "width": 4032,
+                                        "id": "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T1-Blue-00012",
+                                        "type": "ImageService3",
+                                        "@context": "http://iiif.io/api/image/3/context.json",
+                                        "height": 3024
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T1-Blue-00012/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T2-Orange-00014/canvas/",
             "type": "Canvas",
             "label": {
