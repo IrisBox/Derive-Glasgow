@@ -1,0 +1,33 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 118,
+    "height" : 89
+  }, {
+    "width" : 236,
+    "height" : 177
+  }, {
+    "width" : 472,
+    "height" : 354
+  }, {
+    "width" : 944,
+    "height" : 708
+  }, {
+    "width" : 1888,
+    "height" : 1416
+  }, {
+    "width" : 3775,
+    "height" : 2831
+  } ],
+  "profile" : "level0",
+  "width" : 3775,
+  "id" : "https://IrisBox.github.io/Derive-Glasgow/images/20250619_092228",
+  "type" : "ImageService3",
+  "@context" : "http://iiif.io/api/image/3/context.json",
+  "height" : 2831
+}
