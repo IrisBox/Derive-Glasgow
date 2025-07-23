@@ -178,8 +178,8 @@
                     "20250617_143454"
                 ]
             },
-            "height": 3468,
-            "width": 4624,
+            "height": 4624,
+            "width": 3468,
             "items": [
                 {
                     "id": "https://IrisBox.github.io/Derive-Glasgow/images/20250617_143454/annotation/AnnoPage",
@@ -211,36 +211,36 @@
                                         "protocol": "http://iiif.io/api/image",
                                         "sizes": [
                                             {
-                                                "width": 145,
-                                                "height": 109
+                                                "width": 109,
+                                                "height": 145
                                             },
                                             {
-                                                "width": 289,
-                                                "height": 217
+                                                "width": 217,
+                                                "height": 289
                                             },
                                             {
-                                                "width": 578,
-                                                "height": 434
+                                                "width": 434,
+                                                "height": 578
                                             },
                                             {
-                                                "width": 1156,
-                                                "height": 867
+                                                "width": 867,
+                                                "height": 1156
                                             },
                                             {
-                                                "width": 2312,
-                                                "height": 1734
+                                                "width": 1734,
+                                                "height": 2312
                                             },
                                             {
-                                                "width": 4624,
-                                                "height": 3468
+                                                "width": 3468,
+                                                "height": 4624
                                             }
                                         ],
                                         "profile": "level0",
-                                        "width": 4624,
+                                        "width": 3468,
                                         "id": "https://IrisBox.github.io/Derive-Glasgow/images/20250617_143454",
                                         "type": "ImageService3",
                                         "@context": "http://iiif.io/api/image/3/context.json",
-                                        "height": 3468
+                                        "height": 4624
                                     }
                                 ],
                                 "format": "image/jpeg"
@@ -2122,8 +2122,8 @@
                     "20250618_122049"
                 ]
             },
-            "height": 3468,
-            "width": 4624,
+            "height": 4624,
+            "width": 3468,
             "items": [
                 {
                     "id": "https://IrisBox.github.io/Derive-Glasgow/images/20250618_122049/annotation/AnnoPage",
@@ -2155,36 +2155,36 @@
                                         "protocol": "http://iiif.io/api/image",
                                         "sizes": [
                                             {
-                                                "width": 145,
-                                                "height": 109
+                                                "width": 109,
+                                                "height": 145
                                             },
                                             {
-                                                "width": 289,
-                                                "height": 217
+                                                "width": 217,
+                                                "height": 289
                                             },
                                             {
-                                                "width": 578,
-                                                "height": 434
+                                                "width": 434,
+                                                "height": 578
                                             },
                                             {
-                                                "width": 1156,
-                                                "height": 867
+                                                "width": 867,
+                                                "height": 1156
                                             },
                                             {
-                                                "width": 2312,
-                                                "height": 1734
+                                                "width": 1734,
+                                                "height": 2312
                                             },
                                             {
-                                                "width": 4624,
-                                                "height": 3468
+                                                "width": 3468,
+                                                "height": 4624
                                             }
                                         ],
                                         "profile": "level0",
-                                        "width": 4624,
+                                        "width": 3468,
                                         "id": "https://IrisBox.github.io/Derive-Glasgow/images/20250618_122049",
                                         "type": "ImageService3",
                                         "@context": "http://iiif.io/api/image/3/context.json",
-                                        "height": 3468
+                                        "height": 4624
                                     }
                                 ],
                                 "format": "image/jpeg"
