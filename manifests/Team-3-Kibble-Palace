@@ -1,0 +1,2717 @@
+{
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "id" : "https://IrisBox.github.io/Derive-Glasgow/manifests/Team-3-Kibble-Palace",
+  "type" : "Manifest",
+  "label" : {
+    "en" : [ "Team 3 Kibble Palace" ]
+  },
+  "summary" : {
+    "en" : [ "Photographs taken by Team 3 as they undertook a hybrid derive to the Kibble Palace in Glasgow." ]
+  },
+  "thumbnail" : [ {
+    "id" : "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T3-Black-00033/full/max/0/default.jpg",
+    "type" : "Image",
+    "format" : "image/jpeg",
+    "height" : 1640,
+    "width" : 2360,
+    "service" : [ {
+      "tiles" : [ {
+        "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+        "width" : 1024,
+        "height" : 1024
+      } ],
+      "protocol" : "http://iiif.io/api/image",
+      "sizes" : [ {
+        "width" : 74,
+        "height" : 52
+      }, {
+        "width" : 148,
+        "height" : 103
+      }, {
+        "width" : 295,
+        "height" : 205
+      }, {
+        "width" : 590,
+        "height" : 410
+      }, {
+        "width" : 1180,
+        "height" : 820
+      }, {
+        "width" : 2360,
+        "height" : 1640
+      } ],
+      "profile" : "level0",
+      "width" : 2360,
+      "id" : "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T3-Black-00033",
+      "type" : "ImageService3",
+      "@context" : "http://iiif.io/api/image/3/context.json",
+      "height" : 1640
+    } ]
+  } ],
+  "items" : [ {
+    "id" : "https://example.org/ku53g4vz13-mdk36n79/canvas/tinlakri09-mdk3x2l1",
+    "type" : "Canvas",
+    "height" : 1600,
+    "width" : 1200,
+    "label" : {
+      "en" : [ "GD-T3-00001" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T3-Black-00001/full/300,/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 400,
+      "width" : 300
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/ku53g4vz13-mdk36n79/canvas/tinlakri09-mdk3x2l1/annotation-page/hcm9xsb5fle-mdk3x2l1",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/ku53g4vz13-mdk36n79/annotation/pbdewkbt0fi-mdk3x2l0",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/ku53g4vz13-mdk36n79/canvas/tinlakri09-mdk3x2l1",
+        "body" : {
+          "id" : "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T3-Black-00001/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1600,
+          "width" : 1200,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 38,
+              "height" : 50
+            }, {
+              "width" : 75,
+              "height" : 100
+            }, {
+              "width" : 150,
+              "height" : 200
+            }, {
+              "width" : 300,
+              "height" : 400
+            }, {
+              "width" : 600,
+              "height" : 800
+            }, {
+              "width" : 1200,
+              "height" : 1600
+            } ],
+            "profile" : "level0",
+            "width" : 1200,
+            "id" : "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T3-Black-00001",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 1600
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/ku53g4vz13-mdk36n79/canvas/6b69gyyw94i-mdk3xaya",
+    "type" : "Canvas",
+    "height" : 1600,
+    "width" : 1200,
+    "label" : {
+      "en" : [ "GD-T3-00002" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T3-Black-00002/full/300,/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 400,
+      "width" : 300
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/ku53g4vz13-mdk36n79/canvas/6b69gyyw94i-mdk3xaya/annotation-page/01k596gbl9jn-mdk3xaya",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/ku53g4vz13-mdk36n79/annotation/3dp5h2wldm-mdk3xay7",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/ku53g4vz13-mdk36n79/canvas/6b69gyyw94i-mdk3xaya",
+        "body" : {
+          "id" : "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T3-Black-00002/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1600,
+          "width" : 1200,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 38,
+              "height" : 50
+            }, {
+              "width" : 75,
+              "height" : 100
+            }, {
+              "width" : 150,
+              "height" : 200
+            }, {
+              "width" : 300,
+              "height" : 400
+            }, {
+              "width" : 600,
+              "height" : 800
+            }, {
+              "width" : 1200,
+              "height" : 1600
+            } ],
+            "profile" : "level0",
+            "width" : 1200,
+            "id" : "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T3-Black-00002",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 1600
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/ku53g4vz13-mdk36n79/canvas/rizy8risiuc-mdk3yrlt",
+    "type" : "Canvas",
+    "height" : 1600,
+    "width" : 1200,
+    "label" : {
+      "en" : [ "GD-T3-00003" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T3-Black-00003/full/300,/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 400,
+      "width" : 300
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/ku53g4vz13-mdk36n79/canvas/rizy8risiuc-mdk3yrlt/annotation-page/gwq07hdwlvq-mdk3yrlt",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/ku53g4vz13-mdk36n79/annotation/2az2mlc3nsf-mdk3yrlt",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/ku53g4vz13-mdk36n79/canvas/rizy8risiuc-mdk3yrlt",
+        "body" : {
+          "id" : "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T3-Black-00003/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1600,
+          "width" : 1200,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 38,
+              "height" : 50
+            }, {
+              "width" : 75,
+              "height" : 100
+            }, {
+              "width" : 150,
+              "height" : 200
+            }, {
+              "width" : 300,
+              "height" : 400
+            }, {
+              "width" : 600,
+              "height" : 800
+            }, {
+              "width" : 1200,
+              "height" : 1600
+            } ],
+            "profile" : "level0",
+            "width" : 1200,
+            "id" : "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T3-Black-00003",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 1600
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/ku53g4vz13-mdk36n79/canvas/bohiywnhlz7-mdk40lvw",
+    "type" : "Canvas",
+    "height" : 1600,
+    "width" : 1200,
+    "label" : {
+      "en" : [ "GD-T3-00004" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T3-Black-00004/full/300,/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 400,
+      "width" : 300
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/ku53g4vz13-mdk36n79/canvas/bohiywnhlz7-mdk40lvw/annotation-page/1o5ydg55959-mdk40lvw",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/ku53g4vz13-mdk36n79/annotation/sz2m7hn1mrd-mdk40lvu",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/ku53g4vz13-mdk36n79/canvas/bohiywnhlz7-mdk40lvw",
+        "body" : {
+          "id" : "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T3-Black-00004/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1600,
+          "width" : 1200,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 38,
+              "height" : 50
+            }, {
+              "width" : 75,
+              "height" : 100
+            }, {
+              "width" : 150,
+              "height" : 200
+            }, {
+              "width" : 300,
+              "height" : 400
+            }, {
+              "width" : 600,
+              "height" : 800
+            }, {
+              "width" : 1200,
+              "height" : 1600
+            } ],
+            "profile" : "level0",
+            "width" : 1200,
+            "id" : "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T3-Black-00004",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 1600
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/ku53g4vz13-mdk36n79/canvas/3d7e1rea1lv-mdk42qsg",
+    "type" : "Canvas",
+    "height" : 1600,
+    "width" : 1200,
+    "label" : {
+      "en" : [ "GD-T3-00005" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T3-Black-00005/full/300,/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 400,
+      "width" : 300
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/ku53g4vz13-mdk36n79/canvas/3d7e1rea1lv-mdk42qsg/annotation-page/w7wrx226lll-mdk42qsh",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/ku53g4vz13-mdk36n79/annotation/lp61eu166jp-mdk42qsf",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/ku53g4vz13-mdk36n79/canvas/3d7e1rea1lv-mdk42qsg",
+        "body" : {
+          "id" : "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T3-Black-00005/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1600,
+          "width" : 1200,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 38,
+              "height" : 50
+            }, {
+              "width" : 75,
+              "height" : 100
+            }, {
+              "width" : 150,
+              "height" : 200
+            }, {
+              "width" : 300,
+              "height" : 400
+            }, {
+              "width" : 600,
+              "height" : 800
+            }, {
+              "width" : 1200,
+              "height" : 1600
+            } ],
+            "profile" : "level0",
+            "width" : 1200,
+            "id" : "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T3-Black-00005",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 1600
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/ku53g4vz13-mdk36n79/canvas/blb9cfjkpme-mdk42zyh",
+    "type" : "Canvas",
+    "height" : 1600,
+    "width" : 1200,
+    "label" : {
+      "en" : [ "GD-T3-00006" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T3-Black-00006/full/300,/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 400,
+      "width" : 300
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/ku53g4vz13-mdk36n79/canvas/blb9cfjkpme-mdk42zyh/annotation-page/bxtrzm96m7i-mdk42zyh",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/ku53g4vz13-mdk36n79/annotation/rrji105yvnh-mdk42zyh",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/ku53g4vz13-mdk36n79/canvas/blb9cfjkpme-mdk42zyh",
+        "body" : {
+          "id" : "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T3-Black-00006/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1600,
+          "width" : 1200,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 38,
+              "height" : 50
+            }, {
+              "width" : 75,
+              "height" : 100
+            }, {
+              "width" : 150,
+              "height" : 200
+            }, {
+              "width" : 300,
+              "height" : 400
+            }, {
+              "width" : 600,
+              "height" : 800
+            }, {
+              "width" : 1200,
+              "height" : 1600
+            } ],
+            "profile" : "level0",
+            "width" : 1200,
+            "id" : "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T3-Black-00006",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 1600
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/ku53g4vz13-mdk36n79/canvas/7pzs0rhchal-mdk44fsy",
+    "type" : "Canvas",
+    "height" : 1600,
+    "width" : 1200,
+    "label" : {
+      "en" : [ "GD-T3-00007" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T3-Black-00007/full/300,/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 400,
+      "width" : 300
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/ku53g4vz13-mdk36n79/canvas/7pzs0rhchal-mdk44fsy/annotation-page/bi4uptsv4n9-mdk44fsy",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/ku53g4vz13-mdk36n79/annotation/z9vyey6s8v-mdk44fsx",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/ku53g4vz13-mdk36n79/canvas/7pzs0rhchal-mdk44fsy",
+        "body" : {
+          "id" : "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T3-Black-00007/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1600,
+          "width" : 1200,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 38,
+              "height" : 50
+            }, {
+              "width" : 75,
+              "height" : 100
+            }, {
+              "width" : 150,
+              "height" : 200
+            }, {
+              "width" : 300,
+              "height" : 400
+            }, {
+              "width" : 600,
+              "height" : 800
+            }, {
+              "width" : 1200,
+              "height" : 1600
+            } ],
+            "profile" : "level0",
+            "width" : 1200,
+            "id" : "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T3-Black-00007",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 1600
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/ku53g4vz13-mdk36n79/canvas/lwgpum008kp-mdk45xm2",
+    "type" : "Canvas",
+    "height" : 1600,
+    "width" : 1200,
+    "label" : {
+      "en" : [ "GD-T3-00008" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T3-Black-00008/full/300,/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 400,
+      "width" : 300
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/ku53g4vz13-mdk36n79/canvas/lwgpum008kp-mdk45xm2/annotation-page/0xchqhd2qfs8-mdk45xm2",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/ku53g4vz13-mdk36n79/annotation/o13q9jjcxj-mdk45xm1",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/ku53g4vz13-mdk36n79/canvas/lwgpum008kp-mdk45xm2",
+        "body" : {
+          "id" : "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T3-Black-00008/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1600,
+          "width" : 1200,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 38,
+              "height" : 50
+            }, {
+              "width" : 75,
+              "height" : 100
+            }, {
+              "width" : 150,
+              "height" : 200
+            }, {
+              "width" : 300,
+              "height" : 400
+            }, {
+              "width" : 600,
+              "height" : 800
+            }, {
+              "width" : 1200,
+              "height" : 1600
+            } ],
+            "profile" : "level0",
+            "width" : 1200,
+            "id" : "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T3-Black-00008",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 1600
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/ku53g4vz13-mdk36n79/canvas/cqb3i1dswli-mdk47i3w",
+    "type" : "Canvas",
+    "height" : 1600,
+    "width" : 1200,
+    "label" : {
+      "en" : [ "GD-T3-00009" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T3-Black-00009/full/300,/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 400,
+      "width" : 300
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/ku53g4vz13-mdk36n79/canvas/cqb3i1dswli-mdk47i3w/annotation-page/hdnhqyb18ih-mdk47i3w",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/ku53g4vz13-mdk36n79/annotation/11j6hexs6og-mdk47i3u",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/ku53g4vz13-mdk36n79/canvas/cqb3i1dswli-mdk47i3w",
+        "body" : {
+          "id" : "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T3-Black-00009/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1600,
+          "width" : 1200,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 38,
+              "height" : 50
+            }, {
+              "width" : 75,
+              "height" : 100
+            }, {
+              "width" : 150,
+              "height" : 200
+            }, {
+              "width" : 300,
+              "height" : 400
+            }, {
+              "width" : 600,
+              "height" : 800
+            }, {
+              "width" : 1200,
+              "height" : 1600
+            } ],
+            "profile" : "level0",
+            "width" : 1200,
+            "id" : "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T3-Black-00009",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 1600
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/ku53g4vz13-mdk36n79/canvas/t3ud0qn7ydg-mdk493oi",
+    "type" : "Canvas",
+    "height" : 1600,
+    "width" : 1200,
+    "label" : {
+      "en" : [ "GD-T3-00010" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T3-Black-00010/full/300,/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 400,
+      "width" : 300
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/ku53g4vz13-mdk36n79/canvas/t3ud0qn7ydg-mdk493oi/annotation-page/nk666h764hd-mdk493oi",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/ku53g4vz13-mdk36n79/annotation/cumigsqvzdo-mdk493og",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/ku53g4vz13-mdk36n79/canvas/t3ud0qn7ydg-mdk493oi",
+        "body" : {
+          "id" : "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T3-Black-00010/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1600,
+          "width" : 1200,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 38,
+              "height" : 50
+            }, {
+              "width" : 75,
+              "height" : 100
+            }, {
+              "width" : 150,
+              "height" : 200
+            }, {
+              "width" : 300,
+              "height" : 400
+            }, {
+              "width" : 600,
+              "height" : 800
+            }, {
+              "width" : 1200,
+              "height" : 1600
+            } ],
+            "profile" : "level0",
+            "width" : 1200,
+            "id" : "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T3-Black-00010",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 1600
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/ku53g4vz13-mdk36n79/canvas/24jnmrt8ypr-mdk4anzf",
+    "type" : "Canvas",
+    "height" : 1600,
+    "width" : 1200,
+    "label" : {
+      "en" : [ "GD-T3-00011" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T3-Black-00011/full/300,/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 400,
+      "width" : 300
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/ku53g4vz13-mdk36n79/canvas/24jnmrt8ypr-mdk4anzf/annotation-page/zie6apzilqr-mdk4anzf",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/ku53g4vz13-mdk36n79/annotation/9z6l333pkrb-mdk4anzf",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/ku53g4vz13-mdk36n79/canvas/24jnmrt8ypr-mdk4anzf",
+        "body" : {
+          "id" : "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T3-Black-00011/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1600,
+          "width" : 1200,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 38,
+              "height" : 50
+            }, {
+              "width" : 75,
+              "height" : 100
+            }, {
+              "width" : 150,
+              "height" : 200
+            }, {
+              "width" : 300,
+              "height" : 400
+            }, {
+              "width" : 600,
+              "height" : 800
+            }, {
+              "width" : 1200,
+              "height" : 1600
+            } ],
+            "profile" : "level0",
+            "width" : 1200,
+            "id" : "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T3-Black-00011",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 1600
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/ku53g4vz13-mdk36n79/canvas/0rf5d1f1jq5o-mdk4cq8l",
+    "type" : "Canvas",
+    "height" : 1600,
+    "width" : 1200,
+    "label" : {
+      "en" : [ "GD-T3-00012" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T3-Black-00012/full/300,/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 400,
+      "width" : 300
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/ku53g4vz13-mdk36n79/canvas/0rf5d1f1jq5o-mdk4cq8l/annotation-page/h1drnymbas-mdk4cq8l",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/ku53g4vz13-mdk36n79/annotation/moh4a4tv3rd-mdk4cq8j",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/ku53g4vz13-mdk36n79/canvas/0rf5d1f1jq5o-mdk4cq8l",
+        "body" : {
+          "id" : "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T3-Black-00012/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1600,
+          "width" : 1200,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 38,
+              "height" : 50
+            }, {
+              "width" : 75,
+              "height" : 100
+            }, {
+              "width" : 150,
+              "height" : 200
+            }, {
+              "width" : 300,
+              "height" : 400
+            }, {
+              "width" : 600,
+              "height" : 800
+            }, {
+              "width" : 1200,
+              "height" : 1600
+            } ],
+            "profile" : "level0",
+            "width" : 1200,
+            "id" : "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T3-Black-00012",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 1600
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/ku53g4vz13-mdk36n79/canvas/fqvnfy2ici-mdk4e7uu",
+    "type" : "Canvas",
+    "height" : 1600,
+    "width" : 1200,
+    "label" : {
+      "en" : [ "GD-T3-00013" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T3-Black-00013/full/300,/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 400,
+      "width" : 300
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/ku53g4vz13-mdk36n79/canvas/fqvnfy2ici-mdk4e7uu/annotation-page/6ukbk6cl4ui-mdk4e7uu",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/ku53g4vz13-mdk36n79/annotation/u3l5rnyguh-mdk4e7ut",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/ku53g4vz13-mdk36n79/canvas/fqvnfy2ici-mdk4e7uu",
+        "body" : {
+          "id" : "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T3-Black-00013/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1600,
+          "width" : 1200,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 38,
+              "height" : 50
+            }, {
+              "width" : 75,
+              "height" : 100
+            }, {
+              "width" : 150,
+              "height" : 200
+            }, {
+              "width" : 300,
+              "height" : 400
+            }, {
+              "width" : 600,
+              "height" : 800
+            }, {
+              "width" : 1200,
+              "height" : 1600
+            } ],
+            "profile" : "level0",
+            "width" : 1200,
+            "id" : "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T3-Black-00013",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 1600
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/ku53g4vz13-mdk36n79/canvas/6nb9osg3fvh-mdk4ftsk",
+    "type" : "Canvas",
+    "height" : 1600,
+    "width" : 1200,
+    "label" : {
+      "en" : [ "GD-T3-00014" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T3-Black-00014/full/300,/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 400,
+      "width" : 300
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/ku53g4vz13-mdk36n79/canvas/6nb9osg3fvh-mdk4ftsk/annotation-page/d3eae8fui1-mdk4ftsk",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/ku53g4vz13-mdk36n79/annotation/4h6k1lw1n6c-mdk4ftsk",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/ku53g4vz13-mdk36n79/canvas/6nb9osg3fvh-mdk4ftsk",
+        "body" : {
+          "id" : "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T3-Black-00014/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1600,
+          "width" : 1200,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 38,
+              "height" : 50
+            }, {
+              "width" : 75,
+              "height" : 100
+            }, {
+              "width" : 150,
+              "height" : 200
+            }, {
+              "width" : 300,
+              "height" : 400
+            }, {
+              "width" : 600,
+              "height" : 800
+            }, {
+              "width" : 1200,
+              "height" : 1600
+            } ],
+            "profile" : "level0",
+            "width" : 1200,
+            "id" : "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T3-Black-00014",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 1600
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/ku53g4vz13-mdk36n79/canvas/cjrr3xjsrsd-mdk4g6fo",
+    "type" : "Canvas",
+    "height" : 1600,
+    "width" : 1200,
+    "label" : {
+      "en" : [ "GD-T3-00015" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T3-Black-00015/full/300,/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 400,
+      "width" : 300
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/ku53g4vz13-mdk36n79/canvas/cjrr3xjsrsd-mdk4g6fo/annotation-page/2g655j36gph-mdk4g6fo",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/ku53g4vz13-mdk36n79/annotation/yq56yjw37bi-mdk4g6fo",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/ku53g4vz13-mdk36n79/canvas/cjrr3xjsrsd-mdk4g6fo",
+        "body" : {
+          "id" : "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T3-Black-00015/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1600,
+          "width" : 1200,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 38,
+              "height" : 50
+            }, {
+              "width" : 75,
+              "height" : 100
+            }, {
+              "width" : 150,
+              "height" : 200
+            }, {
+              "width" : 300,
+              "height" : 400
+            }, {
+              "width" : 600,
+              "height" : 800
+            }, {
+              "width" : 1200,
+              "height" : 1600
+            } ],
+            "profile" : "level0",
+            "width" : 1200,
+            "id" : "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T3-Black-00015",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 1600
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/ku53g4vz13-mdk36n79/canvas/9nbr1cyiy3u-mdk4hff5",
+    "type" : "Canvas",
+    "height" : 1600,
+    "width" : 1200,
+    "label" : {
+      "en" : [ "GD-T3-00016" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T3-Black-00016/full/300,/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 400,
+      "width" : 300
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/ku53g4vz13-mdk36n79/canvas/9nbr1cyiy3u-mdk4hff5/annotation-page/9n3w0qu99nu-mdk4hff5",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/ku53g4vz13-mdk36n79/annotation/7us4ezjzrpx-mdk4hff4",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/ku53g4vz13-mdk36n79/canvas/9nbr1cyiy3u-mdk4hff5",
+        "body" : {
+          "id" : "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T3-Black-00016/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1600,
+          "width" : 1200,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 38,
+              "height" : 50
+            }, {
+              "width" : 75,
+              "height" : 100
+            }, {
+              "width" : 150,
+              "height" : 200
+            }, {
+              "width" : 300,
+              "height" : 400
+            }, {
+              "width" : 600,
+              "height" : 800
+            }, {
+              "width" : 1200,
+              "height" : 1600
+            } ],
+            "profile" : "level0",
+            "width" : 1200,
+            "id" : "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T3-Black-00016",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 1600
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/ku53g4vz13-mdk36n79/canvas/im9s1y40cg-mdk4hrbx",
+    "type" : "Canvas",
+    "height" : 1600,
+    "width" : 1200,
+    "label" : {
+      "en" : [ "GD-T3-00017" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T3-Black-00017/full/300,/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 400,
+      "width" : 300
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/ku53g4vz13-mdk36n79/canvas/im9s1y40cg-mdk4hrbx/annotation-page/snd5mc8cny-mdk4hrbx",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/ku53g4vz13-mdk36n79/annotation/ily1iizeivk-mdk4hrbx",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/ku53g4vz13-mdk36n79/canvas/im9s1y40cg-mdk4hrbx",
+        "body" : {
+          "id" : "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T3-Black-00017/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1600,
+          "width" : 1200,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 38,
+              "height" : 50
+            }, {
+              "width" : 75,
+              "height" : 100
+            }, {
+              "width" : 150,
+              "height" : 200
+            }, {
+              "width" : 300,
+              "height" : 400
+            }, {
+              "width" : 600,
+              "height" : 800
+            }, {
+              "width" : 1200,
+              "height" : 1600
+            } ],
+            "profile" : "level0",
+            "width" : 1200,
+            "id" : "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T3-Black-00017",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 1600
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/ku53g4vz13-mdk36n79/canvas/0orli59y86pl-mdk4jqad",
+    "type" : "Canvas",
+    "height" : 1600,
+    "width" : 1200,
+    "label" : {
+      "en" : [ "GD-T3-00018" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T3-Black-00018/full/300,/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 400,
+      "width" : 300
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/ku53g4vz13-mdk36n79/canvas/0orli59y86pl-mdk4jqad/annotation-page/jng8w3xsuqq-mdk4jqad",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/ku53g4vz13-mdk36n79/annotation/0rikwmjr9smm-mdk4jqab",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/ku53g4vz13-mdk36n79/canvas/0orli59y86pl-mdk4jqad",
+        "body" : {
+          "id" : "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T3-Black-00018/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1600,
+          "width" : 1200,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 38,
+              "height" : 50
+            }, {
+              "width" : 75,
+              "height" : 100
+            }, {
+              "width" : 150,
+              "height" : 200
+            }, {
+              "width" : 300,
+              "height" : 400
+            }, {
+              "width" : 600,
+              "height" : 800
+            }, {
+              "width" : 1200,
+              "height" : 1600
+            } ],
+            "profile" : "level0",
+            "width" : 1200,
+            "id" : "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T3-Black-00018",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 1600
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/ku53g4vz13-mdk36n79/canvas/oq9mh2redk-mdk4lgqu",
+    "type" : "Canvas",
+    "height" : 1600,
+    "width" : 1200,
+    "label" : {
+      "en" : [ "GD-T3-00019" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T3-Black-00019/full/300,/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 400,
+      "width" : 300
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/ku53g4vz13-mdk36n79/canvas/oq9mh2redk-mdk4lgqu/annotation-page/4zf93cbwvq2-mdk4lgqu",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/ku53g4vz13-mdk36n79/annotation/qy44pbb572-mdk4lgqs",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/ku53g4vz13-mdk36n79/canvas/oq9mh2redk-mdk4lgqu",
+        "body" : {
+          "id" : "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T3-Black-00019/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1600,
+          "width" : 1200,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 38,
+              "height" : 50
+            }, {
+              "width" : 75,
+              "height" : 100
+            }, {
+              "width" : 150,
+              "height" : 200
+            }, {
+              "width" : 300,
+              "height" : 400
+            }, {
+              "width" : 600,
+              "height" : 800
+            }, {
+              "width" : 1200,
+              "height" : 1600
+            } ],
+            "profile" : "level0",
+            "width" : 1200,
+            "id" : "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T3-Black-00019",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 1600
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/ku53g4vz13-mdk36n79/canvas/y6xm8cxughm-mdk4n7pt",
+    "type" : "Canvas",
+    "height" : 1600,
+    "width" : 1200,
+    "label" : {
+      "en" : [ "GD-T3-00020" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T3-Black-00020/full/300,/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 400,
+      "width" : 300
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/ku53g4vz13-mdk36n79/canvas/y6xm8cxughm-mdk4n7pt/annotation-page/2ckqiuolmes-mdk4n7pt",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/ku53g4vz13-mdk36n79/annotation/fx62q9xbfei-mdk4n7ps",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/ku53g4vz13-mdk36n79/canvas/y6xm8cxughm-mdk4n7pt",
+        "body" : {
+          "id" : "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T3-Black-00020/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1600,
+          "width" : 1200,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 38,
+              "height" : 50
+            }, {
+              "width" : 75,
+              "height" : 100
+            }, {
+              "width" : 150,
+              "height" : 200
+            }, {
+              "width" : 300,
+              "height" : 400
+            }, {
+              "width" : 600,
+              "height" : 800
+            }, {
+              "width" : 1200,
+              "height" : 1600
+            } ],
+            "profile" : "level0",
+            "width" : 1200,
+            "id" : "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T3-Black-00020",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 1600
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/ku53g4vz13-mdk36n79/canvas/vyb58xdkgf-mdk4oybh",
+    "type" : "Canvas",
+    "height" : 1600,
+    "width" : 1200,
+    "label" : {
+      "en" : [ "GD-T3-00021" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T3-Black-00021/full/300,/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 400,
+      "width" : 300
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/ku53g4vz13-mdk36n79/canvas/vyb58xdkgf-mdk4oybh/annotation-page/oapaql0pjbs-mdk4oybh",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/ku53g4vz13-mdk36n79/annotation/6jdiv2slkcc-mdk4oybf",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/ku53g4vz13-mdk36n79/canvas/vyb58xdkgf-mdk4oybh",
+        "body" : {
+          "id" : "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T3-Black-00021/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1600,
+          "width" : 1200,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 38,
+              "height" : 50
+            }, {
+              "width" : 75,
+              "height" : 100
+            }, {
+              "width" : 150,
+              "height" : 200
+            }, {
+              "width" : 300,
+              "height" : 400
+            }, {
+              "width" : 600,
+              "height" : 800
+            }, {
+              "width" : 1200,
+              "height" : 1600
+            } ],
+            "profile" : "level0",
+            "width" : 1200,
+            "id" : "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T3-Black-00021",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 1600
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/ku53g4vz13-mdk36n79/canvas/ihnud3ezcy-mdk4qz1j",
+    "type" : "Canvas",
+    "height" : 1600,
+    "width" : 1200,
+    "label" : {
+      "en" : [ "GD-T3-00022" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T3-Black-00022/full/300,/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 400,
+      "width" : 300
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/ku53g4vz13-mdk36n79/canvas/ihnud3ezcy-mdk4qz1j/annotation-page/5a8s75vouxs-mdk4qz1j",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/ku53g4vz13-mdk36n79/annotation/xjchaubgppi-mdk4qz1i",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/ku53g4vz13-mdk36n79/canvas/ihnud3ezcy-mdk4qz1j",
+        "body" : {
+          "id" : "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T3-Black-00022/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1600,
+          "width" : 1200,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 38,
+              "height" : 50
+            }, {
+              "width" : 75,
+              "height" : 100
+            }, {
+              "width" : 150,
+              "height" : 200
+            }, {
+              "width" : 300,
+              "height" : 400
+            }, {
+              "width" : 600,
+              "height" : 800
+            }, {
+              "width" : 1200,
+              "height" : 1600
+            } ],
+            "profile" : "level0",
+            "width" : 1200,
+            "id" : "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T3-Black-00022",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 1600
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/ku53g4vz13-mdk36n79/canvas/o9t3gnf781p-mdk4sfxm",
+    "type" : "Canvas",
+    "height" : 1600,
+    "width" : 1200,
+    "label" : {
+      "en" : [ "GD-T3-00023" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T3-Black-00023/full/300,/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 400,
+      "width" : 300
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/ku53g4vz13-mdk36n79/canvas/o9t3gnf781p-mdk4sfxm/annotation-page/zcivl2uueb-mdk4sfxm",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/ku53g4vz13-mdk36n79/annotation/q9a6jg8hm3k-mdk4sfxk",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/ku53g4vz13-mdk36n79/canvas/o9t3gnf781p-mdk4sfxm",
+        "body" : {
+          "id" : "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T3-Black-00023/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1600,
+          "width" : 1200,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 38,
+              "height" : 50
+            }, {
+              "width" : 75,
+              "height" : 100
+            }, {
+              "width" : 150,
+              "height" : 200
+            }, {
+              "width" : 300,
+              "height" : 400
+            }, {
+              "width" : 600,
+              "height" : 800
+            }, {
+              "width" : 1200,
+              "height" : 1600
+            } ],
+            "profile" : "level0",
+            "width" : 1200,
+            "id" : "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T3-Black-00023",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 1600
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/ku53g4vz13-mdk36n79/canvas/j972xni6jjf-mdk4tyih",
+    "type" : "Canvas",
+    "height" : 3000,
+    "width" : 4000,
+    "label" : {
+      "en" : [ "GD-T3-00024" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T3-Black-00024/full/500,/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 375,
+      "width" : 500
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/ku53g4vz13-mdk36n79/canvas/j972xni6jjf-mdk4tyih/annotation-page/esuapsbudb4-mdk4tyih",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/ku53g4vz13-mdk36n79/annotation/93xydnou0t-mdk4tyif",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/ku53g4vz13-mdk36n79/canvas/j972xni6jjf-mdk4tyih",
+        "body" : {
+          "id" : "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T3-Black-00024/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 3000,
+          "width" : 4000,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 125,
+              "height" : 94
+            }, {
+              "width" : 250,
+              "height" : 188
+            }, {
+              "width" : 500,
+              "height" : 375
+            }, {
+              "width" : 1000,
+              "height" : 750
+            }, {
+              "width" : 2000,
+              "height" : 1500
+            }, {
+              "width" : 4000,
+              "height" : 3000
+            } ],
+            "profile" : "level0",
+            "width" : 4000,
+            "id" : "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T3-Black-00024",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 3000
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/ku53g4vz13-mdk36n79/canvas/240jt6g5iwa-mdk4vke2",
+    "type" : "Canvas",
+    "height" : 2448,
+    "width" : 3264,
+    "label" : {
+      "en" : [ "GD-T3-00025" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T3-Black-00025/full/408,/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 306,
+      "width" : 408
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/ku53g4vz13-mdk36n79/canvas/240jt6g5iwa-mdk4vke2/annotation-page/zo4swdurej-mdk4vke2",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/ku53g4vz13-mdk36n79/annotation/wimr3rrwvia-mdk4vke0",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/ku53g4vz13-mdk36n79/canvas/240jt6g5iwa-mdk4vke2",
+        "body" : {
+          "id" : "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T3-Black-00025/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 2448,
+          "width" : 3264,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 102,
+              "height" : 77
+            }, {
+              "width" : 204,
+              "height" : 153
+            }, {
+              "width" : 408,
+              "height" : 306
+            }, {
+              "width" : 816,
+              "height" : 612
+            }, {
+              "width" : 1632,
+              "height" : 1224
+            }, {
+              "width" : 3264,
+              "height" : 2448
+            } ],
+            "profile" : "level0",
+            "width" : 3264,
+            "id" : "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T3-Black-00025",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 2448
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/ku53g4vz13-mdk36n79/canvas/5mhf9limwz6-mdk4wzi7",
+    "type" : "Canvas",
+    "height" : 3468,
+    "width" : 4624,
+    "label" : {
+      "en" : [ "GD-T3-00026" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T3-Black-00026/full/289,/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 217,
+      "width" : 289
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/ku53g4vz13-mdk36n79/canvas/5mhf9limwz6-mdk4wzi7/annotation-page/3s3le0t9moa-mdk4wzi7",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/ku53g4vz13-mdk36n79/annotation/2irsok34vc1-mdk4wzi6",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/ku53g4vz13-mdk36n79/canvas/5mhf9limwz6-mdk4wzi7",
+        "body" : {
+          "id" : "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T3-Black-00026/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 3468,
+          "width" : 4624,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 145,
+              "height" : 109
+            }, {
+              "width" : 289,
+              "height" : 217
+            }, {
+              "width" : 578,
+              "height" : 434
+            }, {
+              "width" : 1156,
+              "height" : 867
+            }, {
+              "width" : 2312,
+              "height" : 1734
+            }, {
+              "width" : 4624,
+              "height" : 3468
+            } ],
+            "profile" : "level0",
+            "width" : 4624,
+            "id" : "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T3-Black-00026",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 3468
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/ku53g4vz13-mdk36n79/canvas/hmc5v2cnsk-mdk4yh3i",
+    "type" : "Canvas",
+    "height" : 3468,
+    "width" : 4624,
+    "label" : {
+      "en" : [ "GD-T3-00027" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T3-Black-00027/full/289,/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 217,
+      "width" : 289
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/ku53g4vz13-mdk36n79/canvas/hmc5v2cnsk-mdk4yh3i/annotation-page/cvwtmj1smjp-mdk4yh3i",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/ku53g4vz13-mdk36n79/annotation/ucmbkoefoh-mdk4yh3h",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/ku53g4vz13-mdk36n79/canvas/hmc5v2cnsk-mdk4yh3i",
+        "body" : {
+          "id" : "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T3-Black-00027/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 3468,
+          "width" : 4624,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 145,
+              "height" : 109
+            }, {
+              "width" : 289,
+              "height" : 217
+            }, {
+              "width" : 578,
+              "height" : 434
+            }, {
+              "width" : 1156,
+              "height" : 867
+            }, {
+              "width" : 2312,
+              "height" : 1734
+            }, {
+              "width" : 4624,
+              "height" : 3468
+            } ],
+            "profile" : "level0",
+            "width" : 4624,
+            "id" : "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T3-Black-00027",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 3468
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/ku53g4vz13-mdk36n79/canvas/1a682wwkydxi-mdk4yvqu",
+    "type" : "Canvas",
+    "height" : 3468,
+    "width" : 4624,
+    "label" : {
+      "en" : [ "GD-T3-00028" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T3-Black-00028/full/289,/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 217,
+      "width" : 289
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/ku53g4vz13-mdk36n79/canvas/1a682wwkydxi-mdk4yvqu/annotation-page/azk8vj2jvz-mdk4yvqu",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/ku53g4vz13-mdk36n79/annotation/ky5celht19q-mdk4yvqu",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/ku53g4vz13-mdk36n79/canvas/1a682wwkydxi-mdk4yvqu",
+        "body" : {
+          "id" : "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T3-Black-00028/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 3468,
+          "width" : 4624,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 145,
+              "height" : 109
+            }, {
+              "width" : 289,
+              "height" : 217
+            }, {
+              "width" : 578,
+              "height" : 434
+            }, {
+              "width" : 1156,
+              "height" : 867
+            }, {
+              "width" : 2312,
+              "height" : 1734
+            }, {
+              "width" : 4624,
+              "height" : 3468
+            } ],
+            "profile" : "level0",
+            "width" : 4624,
+            "id" : "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T3-Black-00028",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 3468
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/ku53g4vz13-mdk36n79/canvas/v7q0fpvejpf-mdk509dx",
+    "type" : "Canvas",
+    "height" : 3468,
+    "width" : 4624,
+    "label" : {
+      "en" : [ "GD-T3-00029" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T3-Black-00029/full/289,/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 217,
+      "width" : 289
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/ku53g4vz13-mdk36n79/canvas/v7q0fpvejpf-mdk509dx/annotation-page/gum91ae2s0f-mdk509dx",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/ku53g4vz13-mdk36n79/annotation/ny16qj37v-mdk509dw",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/ku53g4vz13-mdk36n79/canvas/v7q0fpvejpf-mdk509dx",
+        "body" : {
+          "id" : "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T3-Black-00029/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 3468,
+          "width" : 4624,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 145,
+              "height" : 109
+            }, {
+              "width" : 289,
+              "height" : 217
+            }, {
+              "width" : 578,
+              "height" : 434
+            }, {
+              "width" : 1156,
+              "height" : 867
+            }, {
+              "width" : 2312,
+              "height" : 1734
+            }, {
+              "width" : 4624,
+              "height" : 3468
+            } ],
+            "profile" : "level0",
+            "width" : 4624,
+            "id" : "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T3-Black-00029",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 3468
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/ku53g4vz13-mdk36n79/canvas/h1ylr1d8sci-mdk51rys",
+    "type" : "Canvas",
+    "height" : 4000,
+    "width" : 3000,
+    "label" : {
+      "en" : [ "GD-T3-00030" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T3-Black-00030/full/375,/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 500,
+      "width" : 375
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/ku53g4vz13-mdk36n79/canvas/h1ylr1d8sci-mdk51rys/annotation-page/j2faun7mtp-mdk51rys",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/ku53g4vz13-mdk36n79/annotation/enawo0dkroh-mdk51ryr",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/ku53g4vz13-mdk36n79/canvas/h1ylr1d8sci-mdk51rys",
+        "body" : {
+          "id" : "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T3-Black-00030/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 4000,
+          "width" : 3000,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 94,
+              "height" : 125
+            }, {
+              "width" : 188,
+              "height" : 250
+            }, {
+              "width" : 375,
+              "height" : 500
+            }, {
+              "width" : 750,
+              "height" : 1000
+            }, {
+              "width" : 1500,
+              "height" : 2000
+            }, {
+              "width" : 3000,
+              "height" : 4000
+            } ],
+            "profile" : "level0",
+            "width" : 3000,
+            "id" : "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T3-Black-00030",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 4000
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/ku53g4vz13-mdk36n79/canvas/pianuam77s-mdk53h3h",
+    "type" : "Canvas",
+    "height" : 1639,
+    "width" : 2360,
+    "label" : {
+      "en" : [ "GD-T3-00031" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T3-Black-00031/full/295,/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 205,
+      "width" : 295
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/ku53g4vz13-mdk36n79/canvas/pianuam77s-mdk53h3h/annotation-page/6lgq6k3f3x-mdk53h3h",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/ku53g4vz13-mdk36n79/annotation/drr6g1scotl-mdk53h3g",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/ku53g4vz13-mdk36n79/canvas/pianuam77s-mdk53h3h",
+        "body" : {
+          "id" : "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T3-Black-00031/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1639,
+          "width" : 2360,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 74,
+              "height" : 52
+            }, {
+              "width" : 148,
+              "height" : 103
+            }, {
+              "width" : 295,
+              "height" : 205
+            }, {
+              "width" : 590,
+              "height" : 410
+            }, {
+              "width" : 1180,
+              "height" : 820
+            }, {
+              "width" : 2360,
+              "height" : 1639
+            } ],
+            "profile" : "level0",
+            "width" : 2360,
+            "id" : "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T3-Black-00031",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 1639
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/ku53g4vz13-mdk36n79/canvas/st9wxvnl8y-mdk557vu",
+    "type" : "Canvas",
+    "height" : 1640,
+    "width" : 2360,
+    "label" : {
+      "en" : [ "GD-T3-00032" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T3-Black-00032/full/295,/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 205,
+      "width" : 295
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/ku53g4vz13-mdk36n79/canvas/st9wxvnl8y-mdk557vu/annotation-page/1ywu1exa3at-mdk557vu",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/ku53g4vz13-mdk36n79/annotation/x9r4nguiab-mdk557vt",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/ku53g4vz13-mdk36n79/canvas/st9wxvnl8y-mdk557vu",
+        "body" : {
+          "id" : "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T3-Black-00032/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1640,
+          "width" : 2360,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 74,
+              "height" : 52
+            }, {
+              "width" : 148,
+              "height" : 103
+            }, {
+              "width" : 295,
+              "height" : 205
+            }, {
+              "width" : 590,
+              "height" : 410
+            }, {
+              "width" : 1180,
+              "height" : 820
+            }, {
+              "width" : 2360,
+              "height" : 1640
+            } ],
+            "profile" : "level0",
+            "width" : 2360,
+            "id" : "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T3-Black-00032",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 1640
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/ku53g4vz13-mdk36n79/canvas/ko6qtvq5rn-mdk56t84",
+    "type" : "Canvas",
+    "height" : 1640,
+    "width" : 2360,
+    "label" : {
+      "en" : [ "GD-T3-00033" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T3-Black-00033/full/295,/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 205,
+      "width" : 295
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/ku53g4vz13-mdk36n79/canvas/ko6qtvq5rn-mdk56t84/annotation-page/eycl26hewwm-mdk56t84",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/ku53g4vz13-mdk36n79/annotation/494fzs404vs-mdk56t83",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/ku53g4vz13-mdk36n79/canvas/ko6qtvq5rn-mdk56t84",
+        "body" : {
+          "id" : "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T3-Black-00033/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1640,
+          "width" : 2360,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 74,
+              "height" : 52
+            }, {
+              "width" : 148,
+              "height" : 103
+            }, {
+              "width" : 295,
+              "height" : 205
+            }, {
+              "width" : 590,
+              "height" : 410
+            }, {
+              "width" : 1180,
+              "height" : 820
+            }, {
+              "width" : 2360,
+              "height" : 1640
+            } ],
+            "profile" : "level0",
+            "width" : 2360,
+            "id" : "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T3-Black-00033",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 1640
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/ku53g4vz13-mdk36n79/canvas/ubnnlhj84j8-mdk589u1",
+    "type" : "Canvas",
+    "height" : 1640,
+    "width" : 2360,
+    "label" : {
+      "en" : [ "GD-T3-00034" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T3-Black-00034/full/295,/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 205,
+      "width" : 295
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/ku53g4vz13-mdk36n79/canvas/ubnnlhj84j8-mdk589u1/annotation-page/ivfn8f3t2q-mdk589u1",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/ku53g4vz13-mdk36n79/annotation/2ppzzt0kt08-mdk589u0",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/ku53g4vz13-mdk36n79/canvas/ubnnlhj84j8-mdk589u1",
+        "body" : {
+          "id" : "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T3-Black-00034/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1640,
+          "width" : 2360,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 74,
+              "height" : 52
+            }, {
+              "width" : 148,
+              "height" : 103
+            }, {
+              "width" : 295,
+              "height" : 205
+            }, {
+              "width" : 590,
+              "height" : 410
+            }, {
+              "width" : 1180,
+              "height" : 820
+            }, {
+              "width" : 2360,
+              "height" : 1640
+            } ],
+            "profile" : "level0",
+            "width" : 2360,
+            "id" : "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T3-Black-00034",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 1640
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/ku53g4vz13-mdk36n79/canvas/21qzvrmmhge-mdk5a1s0",
+    "type" : "Canvas",
+    "height" : 1640,
+    "width" : 2360,
+    "label" : {
+      "en" : [ "GD-T3-00035" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T3-Black-00035/full/295,/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 205,
+      "width" : 295
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/ku53g4vz13-mdk36n79/canvas/21qzvrmmhge-mdk5a1s0/annotation-page/v1xpvf8aal-mdk5a1s0",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/ku53g4vz13-mdk36n79/annotation/q31dxt1uvc-mdk5a1rz",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/ku53g4vz13-mdk36n79/canvas/21qzvrmmhge-mdk5a1s0",
+        "body" : {
+          "id" : "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T3-Black-00035/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1640,
+          "width" : 2360,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 74,
+              "height" : 52
+            }, {
+              "width" : 148,
+              "height" : 103
+            }, {
+              "width" : 295,
+              "height" : 205
+            }, {
+              "width" : 590,
+              "height" : 410
+            }, {
+              "width" : 1180,
+              "height" : 820
+            }, {
+              "width" : 2360,
+              "height" : 1640
+            } ],
+            "profile" : "level0",
+            "width" : 2360,
+            "id" : "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T3-Black-00035",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 1640
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/ku53g4vz13-mdk36n79/canvas/q7bdgg0fvr-mdk5bphz",
+    "type" : "Canvas",
+    "height" : 1640,
+    "width" : 2360,
+    "label" : {
+      "en" : [ "GD-T3-00036" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T3-Black-00036/full/295,/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 205,
+      "width" : 295
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/ku53g4vz13-mdk36n79/canvas/q7bdgg0fvr-mdk5bphz/annotation-page/jtycpdoasm-mdk5bphz",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/ku53g4vz13-mdk36n79/annotation/2tjn9gzev58-mdk5bphy",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/ku53g4vz13-mdk36n79/canvas/q7bdgg0fvr-mdk5bphz",
+        "body" : {
+          "id" : "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T3-Black-00036/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1640,
+          "width" : 2360,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 74,
+              "height" : 52
+            }, {
+              "width" : 148,
+              "height" : 103
+            }, {
+              "width" : 295,
+              "height" : 205
+            }, {
+              "width" : 590,
+              "height" : 410
+            }, {
+              "width" : 1180,
+              "height" : 820
+            }, {
+              "width" : 2360,
+              "height" : 1640
+            } ],
+            "profile" : "level0",
+            "width" : 2360,
+            "id" : "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T3-Black-00036",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 1640
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/ku53g4vz13-mdk36n79/canvas/jri40ck6qmf-mdk5dcs2",
+    "type" : "Canvas",
+    "height" : 1640,
+    "width" : 2360,
+    "label" : {
+      "en" : [ "GD-T3-00037" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T3-Black-00037/full/295,/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 205,
+      "width" : 295
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/ku53g4vz13-mdk36n79/canvas/jri40ck6qmf-mdk5dcs2/annotation-page/gsut1gryan6-mdk5dcs2",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/ku53g4vz13-mdk36n79/annotation/3o1w11tuqpc-mdk5dcs2",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/ku53g4vz13-mdk36n79/canvas/jri40ck6qmf-mdk5dcs2",
+        "body" : {
+          "id" : "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T3-Black-00037/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1640,
+          "width" : 2360,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 74,
+              "height" : 52
+            }, {
+              "width" : 148,
+              "height" : 103
+            }, {
+              "width" : 295,
+              "height" : 205
+            }, {
+              "width" : 590,
+              "height" : 410
+            }, {
+              "width" : 1180,
+              "height" : 820
+            }, {
+              "width" : 2360,
+              "height" : 1640
+            } ],
+            "profile" : "level0",
+            "width" : 2360,
+            "id" : "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T3-Black-00037",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 1640
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/ku53g4vz13-mdk36n79/canvas/yimo9tnf6r9-mdk5evci",
+    "type" : "Canvas",
+    "height" : 1640,
+    "width" : 2360,
+    "label" : {
+      "en" : [ "GD-T3-00038" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T3-Black-00038/full/295,/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 205,
+      "width" : 295
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/ku53g4vz13-mdk36n79/canvas/yimo9tnf6r9-mdk5evci/annotation-page/4tc493ogs2k-mdk5evci",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/ku53g4vz13-mdk36n79/annotation/2zqlewfx3sx-mdk5evch",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/ku53g4vz13-mdk36n79/canvas/yimo9tnf6r9-mdk5evci",
+        "body" : {
+          "id" : "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T3-Black-00038/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1640,
+          "width" : 2360,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 74,
+              "height" : 52
+            }, {
+              "width" : 148,
+              "height" : 103
+            }, {
+              "width" : 295,
+              "height" : 205
+            }, {
+              "width" : 590,
+              "height" : 410
+            }, {
+              "width" : 1180,
+              "height" : 820
+            }, {
+              "width" : 2360,
+              "height" : 1640
+            } ],
+            "profile" : "level0",
+            "width" : 2360,
+            "id" : "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T3-Black-00038",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 1640
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/ku53g4vz13-mdk36n79/canvas/vl32hgqufn8-mdk5gju9",
+    "type" : "Canvas",
+    "height" : 3024,
+    "width" : 4032,
+    "label" : {
+      "en" : [ "GD-T3-00039" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T3-Black-00039/full/504,/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 378,
+      "width" : 504
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/ku53g4vz13-mdk36n79/canvas/vl32hgqufn8-mdk5gju9/annotation-page/1gebk8pdbu-mdk5gju9",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/ku53g4vz13-mdk36n79/annotation/7byuiv1hpcw-mdk5gju8",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/ku53g4vz13-mdk36n79/canvas/vl32hgqufn8-mdk5gju9",
+        "body" : {
+          "id" : "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T3-Black-00039/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 3024,
+          "width" : 4032,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 126,
+              "height" : 95
+            }, {
+              "width" : 252,
+              "height" : 189
+            }, {
+              "width" : 504,
+              "height" : 378
+            }, {
+              "width" : 1008,
+              "height" : 756
+            }, {
+              "width" : 2016,
+              "height" : 1512
+            }, {
+              "width" : 4032,
+              "height" : 3024
+            } ],
+            "profile" : "level0",
+            "width" : 4032,
+            "id" : "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T3-Black-00039",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 3024
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/ku53g4vz13-mdk36n79/canvas/76t3tx58pi7-mdk5i3lv",
+    "type" : "Canvas",
+    "height" : 1640,
+    "width" : 2360,
+    "label" : {
+      "en" : [ "GD-T3-00040" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T3-Black-00040/full/295,/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 205,
+      "width" : 295
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/ku53g4vz13-mdk36n79/canvas/76t3tx58pi7-mdk5i3lv/annotation-page/95hp8ayy63r-mdk5i3lv",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/ku53g4vz13-mdk36n79/annotation/8px0x4p7ww6-mdk5i3lu",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/ku53g4vz13-mdk36n79/canvas/76t3tx58pi7-mdk5i3lv",
+        "body" : {
+          "id" : "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T3-Black-00040/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 1640,
+          "width" : 2360,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 74,
+              "height" : 52
+            }, {
+              "width" : 148,
+              "height" : 103
+            }, {
+              "width" : 295,
+              "height" : 205
+            }, {
+              "width" : 590,
+              "height" : 410
+            }, {
+              "width" : 1180,
+              "height" : 820
+            }, {
+              "width" : 2360,
+              "height" : 1640
+            } ],
+            "profile" : "level0",
+            "width" : 2360,
+            "id" : "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T3-Black-00040",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 1640
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/ku53g4vz13-mdk36n79/canvas/ahc1onhz1w6-mdk5ieed",
+    "type" : "Canvas",
+    "height" : 2448,
+    "width" : 3264,
+    "label" : {
+      "en" : [ "GD-T3-00041" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T3-Black-00041/full/408,/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 306,
+      "width" : 408
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/ku53g4vz13-mdk36n79/canvas/ahc1onhz1w6-mdk5ieed/annotation-page/n2r09prd69-mdk5ieed",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/ku53g4vz13-mdk36n79/annotation/0c4hn91om0t-mdk5ieec",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/ku53g4vz13-mdk36n79/canvas/ahc1onhz1w6-mdk5ieed",
+        "body" : {
+          "id" : "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T3-Black-00041/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 2448,
+          "width" : 3264,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 102,
+              "height" : 77
+            }, {
+              "width" : 204,
+              "height" : 153
+            }, {
+              "width" : 408,
+              "height" : 306
+            }, {
+              "width" : 816,
+              "height" : 612
+            }, {
+              "width" : 1632,
+              "height" : 1224
+            }, {
+              "width" : 3264,
+              "height" : 2448
+            } ],
+            "profile" : "level0",
+            "width" : 3264,
+            "id" : "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T3-Black-00041",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 2448
+          } ]
+        }
+      } ]
+    } ]
+  } ]
+}
