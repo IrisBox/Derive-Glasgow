@@ -11,5 +11,11 @@
       "en" : [ "Team 1 Kelvingrove Park" ]
     },
     "type" : "Manifest"
+  }, {
+    "id" : "https://IrisBox.github.io/Derive-Glasgow/manifests/Team-1-Kelvingrove-Park",
+    "label" : {
+      "en" : [ "Team 1 Kelvingrove Park" ]
+    },
+    "type" : "Manifest"
   } ]
 }
