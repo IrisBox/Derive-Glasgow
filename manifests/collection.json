@@ -1,0 +1,15 @@
+{
+  "id" : "https://IrisBox.github.io/Derive-Glasgow/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in IrisBox/Derive-Glasgow project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "id" : "https://IrisBox.github.io/Derive-Glasgow/manifests/Team-1-Kelvingrove-Park.json",
+    "label" : {
+      "en" : [ "Team 1 Kelvingrove Park" ]
+    },
+    "type" : "Manifest"
+  } ]
+}
