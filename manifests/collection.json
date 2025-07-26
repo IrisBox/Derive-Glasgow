@@ -23,5 +23,11 @@
       "en" : [ "Team 1 Kelvingrove Park" ]
     },
     "type" : "Manifest"
+  }, {
+    "id" : "https://IrisBox.github.io/Derive-Glasgow/manifests/Team-2-Riverside.json",
+    "label" : {
+      "en" : [ "Team 2 Riverside" ]
+    },
+    "type" : "Manifest"
   } ]
 }
