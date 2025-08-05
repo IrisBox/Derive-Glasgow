@@ -1,0 +1,287 @@
+{
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "id" : "https://IrisBox.github.io/Derive-Glasgow/manifests/Derive-Glasgow-Collages.json",
+  "type" : "Manifest",
+  "label" : {
+    "en" : [ "Team 3 Kibble Palace" ]
+  },
+  "summary" : {
+    "en" : [ "Photographs taken by Team 3 as they undertook a hybrid derive to the Kibble Palace in Glasgow." ]
+  },
+  "thumbnail" : [ {
+    "id" : "https://irisbox.github.io/Derive-Glasgow/images/Derive-Glasgow-T3-Black-00001/full/max/0/default.jpg",
+    "type" : "Image",
+    "format" : "image/jpeg",
+    "height" : 1600,
+    "width" : 1200
+  } ],
+  "items" : [ {
+    "id" : "https://iiif.io/api/cookbook/recipe/0009-book-1/manifest.json/canvas/ubuhv0za6le-mdykobdk",
+    "type" : "Canvas",
+    "height" : 2000,
+    "width" : 2500,
+    "label" : {
+      "en" : [ "Team 1: Kelvingrove Park" ]
+    },
+    "summary" : {
+      "en" : [ "A sample collage of observations from Team 1 during their hybrid dérive to Kelvingrove park  in Glasgow." ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T1-Collage/full/313,/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 250,
+      "width" : 313
+    } ],
+    "items" : [ {
+      "id" : "https://iiif.io/api/cookbook/recipe/0009-book-1/manifest.json/canvas/ubuhv0za6le-mdykobdk/annotation-page/b6nbakswzeq-mdykobdk",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://iiif.io/api/cookbook/recipe/0009-book-1/manifest.json/annotation/o6061lysr1-mdykobdj",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://iiif.io/api/cookbook/recipe/0009-book-1/manifest.json/canvas/ubuhv0za6le-mdykobdk",
+        "body" : {
+          "id" : "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T1-Collage/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 2000,
+          "width" : 2500,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 79,
+              "height" : 63
+            }, {
+              "width" : 157,
+              "height" : 125
+            }, {
+              "width" : 313,
+              "height" : 250
+            }, {
+              "width" : 625,
+              "height" : 500
+            }, {
+              "width" : 1250,
+              "height" : 1000
+            }, {
+              "width" : 2500,
+              "height" : 2000
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 2500,
+            "@id" : "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T1-Collage",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 2000
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://iiif.io/api/cookbook/recipe/0009-book-1/manifest.json/canvas/joy2acus01k-mdykovhu",
+    "type" : "Canvas",
+    "height" : 2000,
+    "width" : 2500,
+    "label" : {
+      "en" : [ "Team 2: Riverside" ]
+    },
+    "summary" : {
+      "en" : [ "A sample collage of observations from Team 2 during their hybrid dérive to Riverside in Glasgow." ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T2-Collage/full/313,/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 250,
+      "width" : 313
+    } ],
+    "items" : [ {
+      "id" : "https://iiif.io/api/cookbook/recipe/0009-book-1/manifest.json/canvas/joy2acus01k-mdykovhu/annotation-page/eruayijaret-mdykovhu",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://iiif.io/api/cookbook/recipe/0009-book-1/manifest.json/annotation/zs9w5413f1k-mdykovhu",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://iiif.io/api/cookbook/recipe/0009-book-1/manifest.json/canvas/joy2acus01k-mdykovhu",
+        "body" : {
+          "id" : "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T2-Collage/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 2000,
+          "width" : 2500,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 79,
+              "height" : 63
+            }, {
+              "width" : 157,
+              "height" : 125
+            }, {
+              "width" : 313,
+              "height" : 250
+            }, {
+              "width" : 625,
+              "height" : 500
+            }, {
+              "width" : 1250,
+              "height" : 1000
+            }, {
+              "width" : 2500,
+              "height" : 2000
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 2500,
+            "@id" : "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T2-Collage",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 2000
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://iiif.io/api/cookbook/recipe/0009-book-1/manifest.json/canvas/av3pcy2wogf-mdykpds1",
+    "type" : "Canvas",
+    "height" : 2000,
+    "width" : 2500,
+    "label" : {
+      "en" : [ "Team 3: Kibble Palace" ]
+    },
+    "summary" : {
+      "en" : [ "A sample collage of observations from Team 3 during their hybrid dérive to the Kibble Palace  in Glasgow." ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T3-Collage/full/313,/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 250,
+      "width" : 313
+    } ],
+    "items" : [ {
+      "id" : "https://iiif.io/api/cookbook/recipe/0009-book-1/manifest.json/canvas/av3pcy2wogf-mdykpds1/annotation-page/8bhz46c8vjr-mdykpds1",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://iiif.io/api/cookbook/recipe/0009-book-1/manifest.json/annotation/xvvt0incrar-mdykpds1",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://iiif.io/api/cookbook/recipe/0009-book-1/manifest.json/canvas/av3pcy2wogf-mdykpds1",
+        "body" : {
+          "id" : "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T3-Collage/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 2000,
+          "width" : 2500,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 79,
+              "height" : 63
+            }, {
+              "width" : 157,
+              "height" : 125
+            }, {
+              "width" : 313,
+              "height" : 250
+            }, {
+              "width" : 625,
+              "height" : 500
+            }, {
+              "width" : 1250,
+              "height" : 1000
+            }, {
+              "width" : 2500,
+              "height" : 2000
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 2500,
+            "@id" : "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T3-Collage",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 2000
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://iiif.io/api/cookbook/recipe/0009-book-1/manifest.json/canvas/qfx03j1ctfq-mdykq1h7",
+    "type" : "Canvas",
+    "height" : 2000,
+    "width" : 2500,
+    "label" : {
+      "en" : [ "Team 4: Glasgow Subway & others" ]
+    },
+    "summary" : {
+      "en" : [ "A sample collage of observations of the Glasgow Subway and its envrions in Glasgow, recorded over the duration of the conference." ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://IrisBox.github.io/Derive-Glasgow/images/T4-Other/full/313,/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 250,
+      "width" : 313
+    } ],
+    "items" : [ {
+      "id" : "https://iiif.io/api/cookbook/recipe/0009-book-1/manifest.json/canvas/qfx03j1ctfq-mdykq1h7/annotation-page/l21j6ugip3-mdykq1h7",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://iiif.io/api/cookbook/recipe/0009-book-1/manifest.json/annotation/8vcf2sn36zp-mdykq1h6",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://iiif.io/api/cookbook/recipe/0009-book-1/manifest.json/canvas/qfx03j1ctfq-mdykq1h7",
+        "body" : {
+          "id" : "https://IrisBox.github.io/Derive-Glasgow/images/T4-Other/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 2000,
+          "width" : 2500,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 79,
+              "height" : 63
+            }, {
+              "width" : 157,
+              "height" : 125
+            }, {
+              "width" : 313,
+              "height" : 250
+            }, {
+              "width" : 625,
+              "height" : 500
+            }, {
+              "width" : 1250,
+              "height" : 1000
+            }, {
+              "width" : 2500,
+              "height" : 2000
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 2500,
+            "@id" : "https://IrisBox.github.io/Derive-Glasgow/images/T4-Other",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 2000
+          } ]
+        }
+      } ]
+    } ]
+  } ]
+}
