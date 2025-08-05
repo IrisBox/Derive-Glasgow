@@ -2277,6 +2277,87 @@
             ]
         },
         {
+            "id": "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T2-Collage/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "Derive-Glasgow-T2-Collage"
+                ]
+            },
+            "height": 2000,
+            "width": 2500,
+            "items": [
+                {
+                    "id": "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T2-Collage/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T2-Collage/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T2-Collage/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 79,
+                                                "height": 63
+                                            },
+                                            {
+                                                "width": 157,
+                                                "height": 125
+                                            },
+                                            {
+                                                "width": 313,
+                                                "height": 250
+                                            },
+                                            {
+                                                "width": 625,
+                                                "height": 500
+                                            },
+                                            {
+                                                "width": 1250,
+                                                "height": 1000
+                                            },
+                                            {
+                                                "width": 2500,
+                                                "height": 2000
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 2500,
+                                        "@id": "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T2-Collage",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 2000,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T2-Collage/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T2-Orange-00008/canvas/",
             "type": "Canvas",
             "label": {
@@ -3243,6 +3324,87 @@
                                 "format": "image/jpeg"
                             },
                             "target": "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T3-Black-00001/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T1-Collage/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "Derive-Glasgow-T1-Collage"
+                ]
+            },
+            "height": 2000,
+            "width": 2500,
+            "items": [
+                {
+                    "id": "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T1-Collage/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T1-Collage/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T1-Collage/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 79,
+                                                "height": 63
+                                            },
+                                            {
+                                                "width": 157,
+                                                "height": 125
+                                            },
+                                            {
+                                                "width": 313,
+                                                "height": 250
+                                            },
+                                            {
+                                                "width": 625,
+                                                "height": 500
+                                            },
+                                            {
+                                                "width": 1250,
+                                                "height": 1000
+                                            },
+                                            {
+                                                "width": 2500,
+                                                "height": 2000
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 2500,
+                                        "@id": "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T1-Collage",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 2000,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T1-Collage/canvas/"
                         }
                     ]
                 }
@@ -6570,6 +6732,87 @@
             ]
         },
         {
+            "id": "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T3-Collage/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "Derive-Glasgow-T3-Collage"
+                ]
+            },
+            "height": 2000,
+            "width": 2500,
+            "items": [
+                {
+                    "id": "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T3-Collage/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T3-Collage/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T3-Collage/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 79,
+                                                "height": 63
+                                            },
+                                            {
+                                                "width": 157,
+                                                "height": 125
+                                            },
+                                            {
+                                                "width": 313,
+                                                "height": 250
+                                            },
+                                            {
+                                                "width": 625,
+                                                "height": 500
+                                            },
+                                            {
+                                                "width": 1250,
+                                                "height": 1000
+                                            },
+                                            {
+                                                "width": 2500,
+                                                "height": 2000
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 2500,
+                                        "@id": "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T3-Collage",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 2000,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T3-Collage/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "https://IrisBox.github.io/Derive-Glasgow/images/20250618_122147/canvas/",
             "type": "Canvas",
             "label": {
@@ -6726,6 +6969,87 @@
                                 "format": "image/jpeg"
                             },
                             "target": "https://IrisBox.github.io/Derive-Glasgow/images/Derive-Glasgow-T3-Black-00009/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://IrisBox.github.io/Derive-Glasgow/images/T4-Other/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "T4-Other"
+                ]
+            },
+            "height": 2000,
+            "width": 2500,
+            "items": [
+                {
+                    "id": "https://IrisBox.github.io/Derive-Glasgow/images/T4-Other/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://IrisBox.github.io/Derive-Glasgow/images/T4-Other/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://IrisBox.github.io/Derive-Glasgow/images/T4-Other/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 79,
+                                                "height": 63
+                                            },
+                                            {
+                                                "width": 157,
+                                                "height": 125
+                                            },
+                                            {
+                                                "width": 313,
+                                                "height": 250
+                                            },
+                                            {
+                                                "width": 625,
+                                                "height": 500
+                                            },
+                                            {
+                                                "width": 1250,
+                                                "height": 1000
+                                            },
+                                            {
+                                                "width": 2500,
+                                                "height": 2000
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 2500,
+                                        "@id": "https://IrisBox.github.io/Derive-Glasgow/images/T4-Other",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 2000,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://IrisBox.github.io/Derive-Glasgow/images/T4-Other/canvas/"
                         }
                     ]
                 }
