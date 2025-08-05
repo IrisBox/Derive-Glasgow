@@ -53,5 +53,11 @@
       "en" : [ "Team 3 Kibble Palace" ]
     },
     "type" : "Manifest"
+  }, {
+    "id" : "https://IrisBox.github.io/Derive-Glasgow/manifests/Derive-Glasgow-Collages.json",
+    "label" : {
+      "en" : [ "Team 3 Kibble Palace" ]
+    },
+    "type" : "Manifest"
   } ]
 }
